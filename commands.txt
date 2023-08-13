@@ -1,0 +1,4 @@
+git remote -v
+git log
+git remote add origin url
+
